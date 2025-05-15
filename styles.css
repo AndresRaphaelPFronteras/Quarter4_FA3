@@ -1,0 +1,31 @@
+
+body {
+    
+    background-color: aliceblue;
+    
+    margin-top: 40px;
+    margin-left: 40px;
+    
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+button {
+    
+    height: 90px;
+    width: 200px;
+    
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    
+    cursor: pointer;
+}
+
+#problemTwo {
+    
+    margin-left: 500px;
+}
+
